@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"FD1","Fiducial_0.5mm_Mask1.5mm","Fiducial_0.5mm_Mask1.5mm",2.500000,17.500000,0.000000,top
+"FD2","Fiducial_0.5mm_Mask1.5mm","Fiducial_0.5mm_Mask1.5mm",25.000000,25.500000,0.000000,top
+"FD3","Fiducial_0.5mm_Mask1.5mm","Fiducial_0.5mm_Mask1.5mm",25.000000,17.500000,0.000000,top
+"J2","Micro_SD_Card","SDCARD_MOLEX_503398-1892",12.760000,21.390000,0.000000,top
+"R1","10k","R_0201_0603Metric",18.150000,29.445000,-90.000000,top
+"R2","10k","R_0201_0603Metric",17.000000,29.450000,-90.000000,top
+"R3","10k","R_0201_0603Metric",10.450000,30.000000,-90.000000,top
+"R4","10k","R_0201_0603Metric",12.600000,29.445000,-90.000000,top
+"R5","10k","R_0201_0603Metric",11.495000,29.450000,-90.000000,top

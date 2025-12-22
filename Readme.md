@@ -1,6 +1,6 @@
-# RooK Mk3
+# RooK Mk3.1
 
-RooK is a retro gaming console based on the Raspberry PI CM4. It has all the peripherials you need to be used as an old (modernish) console:
+RooK is a retro gaming console based on the Raspberry PI CM4/CM5. It has all the peripherials you need to be used as an old (modernish) console:
 
 * HDMI for audio and video out.
 * Barrel jack for 5V power input, because we love the simplicity of barrel jacks.

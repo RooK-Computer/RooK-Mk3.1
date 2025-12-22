@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/../../CM4-Files/CM4IO-KiCAD/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB2514B_M2")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_USB2514B_M2/USB2514B_M2/KiCad/USB2514B_M2.kicad_sym")(options "")(descr ""))
+  (lib (name "830108208209")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_830108208209/830108208209/KiCad/830108208209.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-114AH-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_PJ-114AH-SMT-TR/PJ-114AH-SMT-TR/KiCad/PJ-114AH-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "SSRC-240D5")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_SSRC-240D5/SSRC-240D5/KiCad/SSRC-240D5.kicad_sym")(options "")(descr ""))
+  (lib (name "1871058-1")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_1871058-1/1871058-1/KiCad/1871058-1.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ3-35083B-TR")(type "Legacy")(uri "${KIPRJMOD}/../../Parts/LIB_SJ3-35083B-TR/SJ3-35083B-TR/KiCad/SJ3-35083B-TR.lib")(options "")(descr ""))
+  (lib (name "NC7WZ16P6X")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_NC7WZ16P6X/NC7WZ16P6X/KiCad/NC7WZ16P6X.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLZ34NSTRLPBF")(type "KiCad")(uri "${KIPRJMOD}/../../Parts/LIB_IRLZ34NSTRLPBF/IRLZ34NSTRLPBF/KiCad/IRLZ34NSTRLPBF.kicad_sym")(options "")(descr ""))
+)

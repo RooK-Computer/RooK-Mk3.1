@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "24ab2b8f-2552-4d9e-bcc5-6a7a05ce9435")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 101.6 71.12)
+		(size 77.47 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39d1ce77-a3df-4148-b980-d3c511cb2714")
+		(property "Sheetname" "Cartridge"
+			(at 101.6 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Cartridge.kicad_sch"
+			(at 101.6 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RetroConsoleMk3.1"
+				(path "/24ab2b8f-2552-4d9e-bcc5-6a7a05ce9435"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 21.59)
+		(size 77.47 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "635bcbe6-23e1-41b3-a778-846570ad9655")
+		(property "Sheetname" "SD Card, Power"
+			(at 101.6 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sd_card_power.kicad_sch"
+			(at 101.6 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RetroConsoleMk3.1"
+				(path "/24ab2b8f-2552-4d9e-bcc5-6a7a05ce9435"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 71.12)
+		(size 77.47 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a15f9b0-c157-4ee1-9675-74d85559c12e")
+		(property "Sheetname" "USB"
+			(at 20.32 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 20.32 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RetroConsoleMk3.1"
+				(path "/24ab2b8f-2552-4d9e-bcc5-6a7a05ce9435"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 21.59)
+		(size 77.47 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a83ff0ff-117e-4ee6-bad8-35756f9e949e")
+		(property "Sheetname" "CM4 Connector"
+			(at 20.32 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 20.32 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RetroConsoleMk3.1"
+				(path "/24ab2b8f-2552-4d9e-bcc5-6a7a05ce9435"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
