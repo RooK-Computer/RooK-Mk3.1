@@ -35,3 +35,9 @@ There are 3 folders:
 Well for now, you have to produce and order the parts yourself. We're working on this. Stay tuned and keep an eye out at [rook.computer](https://rook.computer).
 
 There is a building guide in the wiki.
+
+## License
+
+Unless noted otherwise this work is licensed under Creative Commons Attribution Share Alike 4.0 International.
+
+`SPDX-License-Identifier:  CC-BY-SA-4.0`
